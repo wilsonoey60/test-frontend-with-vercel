@@ -2,7 +2,7 @@
   "name": "movie-catalogue",
   "version": "1.0.0",
   "description": "",
-  "main": "webpack.dev.js",
+  "main": "src/scripts/index.js",
   "scripts": {
     "start-dev": "webpack serve --open --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js"
